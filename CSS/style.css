@@ -1,0 +1,29 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+#header{
+        background-image: url("/Image/header-bg.png");
+        height:600px;
+        background-repeat: no-repeat;
+
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin: 2%;
+    padding: 2%;
+}
+#text{
+    margin-top: 150px;
+}
+.button{
+    padding: 6px;
+    color:white;
+    background-image: linear-gradient(45deg,blue, cyan);
+    border-radius: 4px;
+    text-decoration: none;
+}
+img{
+    width: 100%;
+}
